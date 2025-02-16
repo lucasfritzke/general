@@ -1,0 +1,74 @@
+[{
+  "name": "Carlos Mendes",
+  "cpf": "12312312300",
+  "birthDate": "1980-06-10",
+  "address": {
+    "street": "Rua das Flores",
+    "number": "789",
+    "neighborhood": "Jardins",
+    "city": "Curitiba",
+    "state": "PR",
+    "country": "Brasil",
+    "zipcode": "80050-100",
+    "complement": "Bloco B"
+  },
+  "email": "carlos.mendes@email.com",
+  "phone": "41 98765-4321"
+},
+  {
+    "name": "Maria Oliveira",
+    "cpf": "98765432100",
+    "birthDate": "1980-08-15",
+    "email": "maria.oliveira@email.com",
+    "phone": "11 98765-4321",
+    "address": {
+      "street": "Avenida Paulista",
+      "number": "1000",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "zipcode": "01310-100",
+      "complement": "Apartamento 22",
+      "latitude": -23.5615,
+      "longitude": -46.656
+    }
+  },
+  {
+    "name": "Carlos Santos",
+    "cpf": "12345678910",
+    "birthDate": "1975-03-25",
+    "email": "carlos.santos@email.com",
+    "password": "123456",
+    "phone": "21 99876-5432",
+    "address": {
+      "street": "Rua Visconde de Pirajá",
+      "number": "850",
+      "neighborhood": "Ipanema",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "country": "Brasil",
+      "zipcode": "22410-003",
+      "complement": "Cobertura"
+    }
+  },
+  {
+    "name": "Ana Souza",
+    "cpf": "11223344556",
+    "birthDate": "1990-12-10",
+    "email": "ana.souza@email.com",
+    "phone": "31 91234-5678",
+    "address": {
+      "street": "Rua da Bahia",
+      "number": "520",
+      "neighborhood": "Centro",
+      "city": "Belo Horizonte",
+      "state": "MG",
+      "country": "Brasil",
+      "zipcode": "30160-011",
+      "complement": "Sala 3",
+      "latitude": -19.9218,
+      "longitude": -43.9378
+    }
+  }
+]

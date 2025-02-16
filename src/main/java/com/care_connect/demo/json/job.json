@@ -1,0 +1,110 @@
+[
+  {
+    "jobDescription": "Acompanhar idoso em casa e auxiliar nas atividades diárias.",
+    "jobType": "TEMPORARY",
+    "startDate": "2025-03-10T08:00:00",
+    "endDate": "2025-03-20T18:00:00",
+    "hoursPerDay": 8,
+    "adviserId": 1,
+    "address": {
+      "street": "Rua das Palmeiras",
+      "number": "45",
+      "neighborhood": "Centro",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "zipcode": "01010-000",
+      "complement": "Apartamento 101"
+    }
+  },
+  {
+    "jobDescription": "Acompanhamento noturno para idoso com mobilidade reduzida.",
+    "jobType": "PERMANENT",
+    "startDate": "2025-04-01T19:00:00",
+    "endDate": "2025-12-31T07:00:00",
+    "hoursPerDay": 12,
+    "adviserId": 1,
+    "address": {
+      "street": "Avenida Paulista",
+      "number": "1500",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "zipcode": "01310-200",
+      "complement": "Bloco B, Ap. 402"
+    }
+  },
+  {
+    "jobDescription": "Cuidados diários para paciente em recuperação pós-cirúrgica.",
+    "jobType": "TEMPORARY",
+    "startDate": "2025-03-15T07:00:00",
+    "endDate": "2025-04-15T19:00:00",
+    "hoursPerDay": 10,
+    "adviserId": 2,
+    "address": {
+      "street": "Rua das Acácias",
+      "number": "220",
+      "neighborhood": "Jardins",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "country": "Brasil",
+      "zipcode": "22040-001",
+      "complement": "Casa com jardim"
+    }
+  },
+  {
+    "jobDescription": "Acompanhamento em consultas médicas e fisioterapia.",
+    "jobType": "PERMANENT",
+    "startDate": "2025-05-05T09:00:00",
+    "endDate": "2025-12-31T12:00:00",
+    "hoursPerDay": 3,
+    "adviserId": 2,
+    "address": {
+      "street": "Avenida Atlântica",
+      "number": "500",
+      "neighborhood": "Copacabana",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "country": "Brasil",
+      "zipcode": "22070-000",
+      "complement": "Prédio Azul, Ap. 302"
+    }
+  },
+  {
+    "jobDescription": "Cuidados e companhia para idoso com Alzheimer em estágio inicial.",
+    "jobType": "PERMANENT",
+    "startDate": "2025-04-10T08:00:00",
+    "endDate": "2025-12-31T18:00:00",
+    "hoursPerDay": 10,
+    "adviserId": 3,
+    "address": {
+      "street": "Rua da Felicidade",
+      "number": "78",
+      "neighborhood": "Centro",
+      "city": "Belo Horizonte",
+      "state": "MG",
+      "country": "Brasil",
+      "zipcode": "30110-060",
+      "complement": "Próximo à praça central"
+    }
+  },
+  {
+    "jobDescription": "Supervisão e auxílio para paciente em reabilitação após AVC.",
+    "jobType": "TEMPORARY",
+    "startDate": "2025-06-01T07:00:00",
+    "endDate": "2025-07-30T18:00:00",
+    "hoursPerDay": 8,
+    "adviserId": 3,
+    "address": {
+      "street": "Rua das Violetas",
+      "number": "390",
+      "neighborhood": "Pampulha",
+      "city": "Belo Horizonte",
+      "state": "MG",
+      "country": "Brasil",
+      "zipcode": "31270-001",
+      "complement": "Casa térrea"
+    }
+  }
+]

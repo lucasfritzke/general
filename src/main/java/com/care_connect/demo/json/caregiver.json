@@ -1,0 +1,85 @@
+[{
+  "name": "Maria Oliveira",
+  "cpf": "98765432100",
+  "birthDate": "1990-08-15",
+  "address": {
+    "street": "Avenida Paulista",
+    "number": "456",
+    "neighborhood": "Bela Vista",
+    "city": "São Paulo",
+    "state": "SP",
+    "country": "Brasil",
+    "zipcode": "01310-100",
+    "complement": "Apartamento 502"
+  },
+  "qualification": "Técnico de Enfermagem",
+  "hourlyRate": 50.00,
+  "personalDescription": "Experiência de 5 anos com cuidados geriátricos.",
+  "email": "maria.oliveira@email.com",
+  "password": "123456",
+  "phone": "11 98888-8888",
+  "coverageRadius": 15.0
+},
+{
+"name": "Maria Oliveira",
+"cpf": "98765432100",
+"birthDate": "1990-08-15",
+"address": {
+"street": "Rua das Flores",
+"number": "456",
+"neighborhood": "Jardim América",
+"city": "São Paulo",
+"state": "SP",
+"country": "Brasil",
+"zipcode": "01153-000",
+"complement": "Casa 2"
+},
+"qualification": "Técnico de Enfermagem",
+"hourlyRate": 40.00,
+"personalDescription": "Cuidadora experiente com idosos e pacientes acamados.",
+"email": "maria.oliveira@email.com",
+"phone": "11 98888-7777",
+"coverageRadius": 15.0
+},{
+  "name": "Fernanda Lima",
+  "cpf": "45678912345",
+  "birthDate": "1990-12-02",
+  "address": {
+    "street": "Rua Bela Vista",
+    "number": "75",
+    "neighborhood": "Nova Cidade",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "country": "Brasil",
+    "zipcode": "90230-050",
+    "complement": "Casa de esquina, portão azul"
+  },
+  "qualification": "Cuidadora Profissional",
+  "hourlyRate": 35.00,
+  "personalDescription": "Trabalho com idosos independentes e dependentes, oferecendo suporte diário.",
+  "email": "fernanda.lima@email.com",
+  "phone": "51 98888-9999",
+  "coverageRadius": 8.0
+},{
+  "name": "Pedro Henrique",
+  "cpf": "56789123456",
+  "birthDate": "1978-07-28",
+  "address": {
+    "street": "Alameda das Flores",
+    "number": "320",
+    "neighborhood": "Vila Nova",
+    "city": "Fortaleza",
+    "state": "CE",
+    "country": "Brasil",
+    "zipcode": "60115-100",
+    "complement": "Casa com jardim frontal"
+  },
+  "qualification": "Fisioterapeuta",
+  "hourlyRate": 45.00,
+  "personalDescription": "Experiência com reabilitação de idosos pós-cirúrgicos e mobilidade reduzida.",
+  "email": "pedro.henrique@email.com",
+  "phone": "85 94444-5555",
+  "coverageRadius": 20.0
+}
+]
+
