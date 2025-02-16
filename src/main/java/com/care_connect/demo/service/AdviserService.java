@@ -28,12 +28,14 @@ public class AdviserService {
     @Autowired
     private UserService userService;
 
+
+
     @Transactional
     public AdviserResponseDto registerAdviser(AdviserRequestDto dto) {
         Adviser adviser = adviserMapper.toEntity(dto);
-        Address address = addressService.save(adviser.getAddress());
+        Address address = addressService.saveAddress(dto.getAddress());
         adviser.setAddress(address);
-        User user = userService.createUser(dto.getEmail(), dto.getPassword(), UserRole.ADVISER);
+        User user = userService.createUser(dto.getEmail(), dto.getPassword(), UserRole.CAREGIVER);
         adviser.setId(user.getId());
         adviserRepository.save(adviser);
         return adviserMapper.toResponseDto(adviser);

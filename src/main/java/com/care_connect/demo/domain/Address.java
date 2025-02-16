@@ -48,5 +48,11 @@ public class Address {
     private Double latitude;
 
     private Double longitude;
+
+    public String toStringGoogleMaps(){
+
+        return this.street + this.number + this.neighborhood + this.city + this.state + this.zipcode;
+
+    }
 }
 
